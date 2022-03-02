@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justus-ndwigah
 - 👀 I’m interested in computer softwares and hardwares,database designs and mathematics
-- 🌱 I’m currently learning mathematis and computer science at meru university of science and technology
+- 🌱 I’m currently pursuing bachelors degree in mathematics and computer science at meru university of science and technology
 - 💞️ I’m looking to collaborate on database designing and administrating
 - 📫 reach me via my email address:justusndwigah@gmail.com 
 - or phone contact :+254741209140
