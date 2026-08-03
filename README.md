@@ -47,10 +47,11 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🏫 [Kavingoni Sec Website](https://github.com/justus-ndwigah/kavingoni-sec-website) | Official school website for St Thomas Kavingoni Senior School | HTML, CSS, JS |
-| ⛪ [Church Management System]() | Member records, contributions & attendance tracking | PHP, MySQL |
+| ⛪ [Church Management System](https://churchflowsystem.rf.gd/) | Member records, contributions & attendance tracking | PHP, MySQL |
 | 🏫 [UnipathKE](https://justus-ndwigah.github.io/UniPathKE/) | University Path finder for candidates | React, Typescript, Node.js |
-| 🏛️ County Financial Database | Financial data system for county government | SQL Server |
 | 🌐 [St Thomas Senior School website](https://github.com/justus-ndwigah/kavingoni-sec-website)| Edu-Tech websites for  St Thomas Senior School | HTML, CSS, PHP |
+| 🏛️ County Financial Database | Financial data system for county government | SQL Server |
+
 
 ---
 
